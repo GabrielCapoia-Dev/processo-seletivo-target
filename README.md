@@ -1,6 +1,9 @@
 # Processo Seletivo Target
 Esse repositório foi criado para responder questões referentes ao processo seletivo da empresa Target Sistemas.
 
+
+Para poder utilizar desse repositório é recomentado que tenha intalado o PHP na sua maquina e tenha o xampp instalado na sua maquina.
+
 Técnica:
 
 1) Observe o trecho de código abaixo: int INDICE = 13, SOMA = 0, K = 0;
